@@ -26,7 +26,7 @@ while num < 10:
 for num in range(1, 11):
     print(num * '\U0001f600')
 
-# for and while loop
+# using a for and while loop
 
 for num in range(1, 11):
     count = 1
